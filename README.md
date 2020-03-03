@@ -1,4 +1,4 @@
-# Naver_crawling
+# 1. Naver_crawling
 Python 기반의 Naver 종합 크롤러. 뉴스기사, Tv프로그램, 영화db, 지도 정보 등 텍스트, 이미지, 지도 기반의 모든 정보를 수집할 수 있으며 정적/동적 웹페이지를 모두 지원한다.
 > **수행기간**: 2019년 9월 22일 ~ 2019년 11월 2일 (1개월) 
 
@@ -27,4 +27,27 @@ Python 기반의 Naver 종합 크롤러. 뉴스기사, Tv프로그램, 영화db,
 - 파이썬 기본(파이참 환경)
 - 모든 웹페이지 크롤링 가능
 - 정적/동적 페이지 이해
+- 데이터 변환 능력 습득
+
+# 2. Google Map 크롤러
+Python과 Selenium, Chromedriver를 사용하여 구글 맵의 상점정보를 수집하는 크롤러입니다.
+> **수행기간**: 2019년 10월 (2주간)  
+
+> **특징**: Google Map 무한 크롤링
+
+> **Tech_Stack**: ● python● pycharm● selenium● selenium-webdriver● selenium-chromedriver● html● css-selectors● openpyxl
+
+## 키워드 입력
+python의 input 함수를 사용하여, cli(console) 상 키워드를 입력 받습니다.
+
+## 지도 정보 크롤링
+상점 관련 모든 정보를 수집해 엑셀로 저장합니다.
+
+## 습득
+- html dom 구조 이해
+- selector 사용에 능숙해짐
+- 파이썬 기본(파이참 환경)
+- 모든 웹페이지 크롤링 가능
+- selenium 이해
+- 동적 웹페이지의 시간지연 이해
 - 데이터 변환 능력 습득
